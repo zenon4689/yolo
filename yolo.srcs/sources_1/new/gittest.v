@@ -1,5 +1,0 @@
-module testmodule(
-    ports
-);
-    
-endmodule
